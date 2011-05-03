@@ -1,0 +1,5 @@
+C:\temp\ConsoleTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\temp\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\temp\ConsoleTest\obj\x86\Debug\ConsoleTest.exe
+C:\temp\ConsoleTest\obj\x86\Debug\ConsoleTest.pdb
